@@ -1,6 +1,6 @@
 # Group Projects - Front End (HTML, JS, CSS)
 
-> DEADLINE: TO BE SUBMITTED BY 15/12/2020 - [SUBMIT HERE](https://forms.gle/V7vC83m1rR8BcBRz7)
+> DEADLINE: TO BE SUBMITTED BY 15/12/2020 - [SUBMIT HERE](https://forms.gle/V7vC83m1rR8BcBRz7) <<< To be updated.
 
 ## SWBATs - Students will be able to
 - Understand the brainstorming and design process and decide on an idea for any future project.
