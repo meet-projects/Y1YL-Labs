@@ -4,7 +4,7 @@
 * Below you can find a CSS lab, in case you feel like you need to practice it. It is not required.
 
 
-# CSS - Lab (Not required)
+# CSS - Lab
 
 ## Objective: 
 During this lab, you will be improving on the Online Shop you created in the previous HTML lab using the programming language CSS.
