@@ -17,18 +17,17 @@ In this lab, you will experiment with Bootstrap's grid system and its' many diff
 ### Part 1:
 1. Create a new file and call it "exercise.html".
 2. Create a table layout using a bootstrap grid **(Without HTML tables)** that includes 3 types of your favorite creatures.  
-2.1 The table layout should look similar to this (image below) for all types of screens.  
-2.2 The **name** needs to be a _link_ to a wiki page about that creature.
+    - The table layout should look similar to this (image below) for all types of screens.  
+    - The **name** needs to be a _link_ to a wiki page about that creature.
 
 <img src="https://github.com/meet-projects/Y1YL-Labs/blob/master/Session%206%2C%20Bootstrap/BootstrapGrid.png" width="300">
 
-### Bonus:  
+#### Bonus:  
 Open the website you made then right click and inspect element. As you notice, the image isn't compatible with the screen size and can sometimes get out of the borders of the column that includes it. Google how to fix that. (hint: you need to make the image's width compatible with its parent).
 
-  
   <br>
-  <br>
-### Part 2:
+
+### Part 2:  
 1. Make a carousel that displays the images of the animals you listed previously.
 2. Add a "Primary" Button with the text "Next", and a "Secondary" Button with the text "Previous".
 
