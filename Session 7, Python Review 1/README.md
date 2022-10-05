@@ -16,7 +16,7 @@ During this lab:
 
 
 ## Instructions:
-> Before we start, make sure to create a new Repl.it and call it "Python Review 1"!
+> Before we start, make sure to navigate to your team in repl.it and click on "Python Review 1"!
 
 1. In `main.py`,  write a Python code which iterates (goes through) the integers from 1 to 50 using **For loops**.
 1. Inside the For loop, apply the following tasks:
