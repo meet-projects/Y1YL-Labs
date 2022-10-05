@@ -1,4 +1,4 @@
-# Y1 Yearlong 2020/21 - Session 8, Python Review 2 Lab
+# Y1 Yearlong 2022/23 - Python Review 2 Lab
 
 ## Objective: 
 During this lab: 
@@ -15,7 +15,7 @@ During this lab:
 
 
 ## Instructions:
-> Before we start, make sure to create a new Repl.it and call it "Python Review 2"!
+> Before we start, make sure to navigate to your team on Repl.it and start with lab "2- Python Review 2"!
 
 ### Part 1: 
 In `main.py` -
