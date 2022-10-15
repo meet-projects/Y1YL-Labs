@@ -1,6 +1,6 @@
 # Backend Individual Project - Object Oriented Programming 
 
-> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  <<< Update in YL 2022-23
+> DEADLINE: 17th November, To be presented at the Physical Event - Submission on Repl.it
 
 ## SWBATs - Students will be able to
 - Create a backend program that is based on any social media website. (For example: Facebook, Instagram, Tiktok, etc.)
@@ -66,7 +66,8 @@ Your objective is to create a **backend** program that is based on any social me
     - The instructions are part of the UX, they should be very clear to the user how the application can be used.
     
 
-> DEADLINE: 31st October, To be presented at HalloConf - [SUBMIT HERE](https://forms.gle/Y3SaM2fxHfo5SrmDA)  
+> DEADLINE: 17th November, To be presented at the Physical Event - Submission on Repl.it  
 
 ## Hints and Hurdles
+- Navigate to your groups' "Teams" tab on Repl.it, you should find an OOP Repl ready for you to code in!
 - If you get stuck on coming up with potential classes, let us know and we'll help in the brainstorm!
