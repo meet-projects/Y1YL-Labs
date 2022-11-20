@@ -1,4 +1,4 @@
-# Y1 Yearlong 2021/22 - Session 5, HTML Lab
+# Y1 Yearlong 2022/23 - Session 5, HTML Lab
 
 ## Objective:
 During this lab, you will be creating a small **Online Shop**!  
@@ -15,8 +15,7 @@ Like this useful website [`https://www.w3schools.com/`](https://www.w3schools.co
 [![](https://camo.githubusercontent.com/131c25bd172508d5f376dd7fe56283ae7fda2194/68747470733a2f2f63646e302e746e7763646e2e636f6d2f77702d636f6e74656e742f626c6f67732e6469722f312f66696c65732f323031372f30392f625563767252632d312d373936783339382e6a7067)]()
 
 
-> First things first, create a new Repl.it account if you haven't already! Here are [instructions](https://github.com/meet-projects/Y2-Seminar2020-Labs/blob/master/replit-setup.md) to help you set up!
-**Open a new Repl, select `HTML, CSS, JS` as the Language, call it `HTML Lab1`, and write/upload your final code there :D**
+> First things first, go to your `Repl.it Teams` tab, navigate to your team (Group) and click on the "HTML Lab" repl.
 
 ## Instructions:
 You will need two HTML pages in this website, `index.html` & `about.html`.  
