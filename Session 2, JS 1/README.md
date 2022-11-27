@@ -19,7 +19,7 @@ In this lab, you will familiarize yourself with Javascript, JS for short, You wi
  - In the `<script>` tags OR your `.js` file, use `console.log` to print `"I love CS!"` to the console.
  - If you are running your code locally (on Sublime or any other editor): Open the Inspector `(Right Click > Inspect)` in your Browser and look for the Console. 
  - If you are running your code on Repl.it: You should already have your console open.
- - Check to see if `"Hello, World"` was output to the console. If not, refresh and try again.
+ - Check to see if `"I love CS!"` was output to the console. If not, refresh and try again.
 
 ^ **The console** is where you also can look out for information related to your JS, warnings, errors, requests and more... but we will not be dealing with all of this right now.
 
@@ -46,7 +46,7 @@ Also known as the DOM.
 - Add an `<h1>` tag in your HTML page, and set its `id` attribute to anything you want.
   -  Example: `<h1 id="title1">Welcome to my page</h1>`
 - In your Javascript, add a function that changes the `innerHTML` (which is the text) of the `<h1>` you added in the step 1.
-  - Tip: google how to create funcitons in Javascript!
+  - Tip: google how to create functions in Javascript!
   - For example: your line would be `document.getElementById("title1").innerHTML = "I control the page now!;`
 - Add a `<button>` tag in your HTML page, and set its `onclick` attribute to the function you created in step 2.
   - For example: if your function's name is `changeText`, it would be `<button onclick="changeText()">Next</button>`
