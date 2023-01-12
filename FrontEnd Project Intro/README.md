@@ -30,6 +30,7 @@ Create a *dynamic* web application that provides a solution to a problem that ex
  
 ### Extra points for:
 - Use of Bootstrap
+- Use of Three.js
 - Storyboard
 - Wireframe
 
