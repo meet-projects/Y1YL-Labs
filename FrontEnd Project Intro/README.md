@@ -9,7 +9,7 @@
 - Understand all of the code that is written, aiming towards better understanding in CS.
 
 ## Motivation / Why Should You Care? 
-- **Ideation:** We've all been in the situation where we want to make something, but are totally overwhelmed by the blank page. The blinking cursor of nothingness. It's totally daunting. Since we're going to start working on our group projects, we're going to first tackle the brainstorming process so that we have a few potential projects that we can work on.  
+- **Ideation:** 
 The point of this project is to learn to build web applications, combining front-end programming with using Javascript as back-end programming, but you can't build an application about nothing. You need a good idea, first!  
 Building this project will help you understand and have more of an idea of how to code the backend side (Which will make it much easier to learn during the Y2 Summer), allowing you to create a fully functional website on a more advanced level!
 
