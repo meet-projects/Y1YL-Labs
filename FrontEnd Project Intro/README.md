@@ -9,7 +9,6 @@
 - Understand all of the code that is written, aiming towards better understanding in CS.
 
 ## Motivation / Why Should You Care? 
-- **Ideation:** 
 The point of this project is to learn to build web applications, combining front-end programming with using Javascript as back-end programming, but you can't build an application about nothing. You need a good idea, first!  
 Building this project will help you understand and have more of an idea of how to code the backend side (Which will make it much easier to learn during the Y2 Summer), allowing you to create a fully functional website on a more advanced level!
 
