@@ -1,4 +1,4 @@
-# Y1 Yearlong 2021/22 - Online Web Builders
+# Y1 Yearlong 2022/23 - Online Web Builders
 
 This lab will be dedicated to your work, effort and progress in CS, all the way along the Y1 yearlong.
 After this lab, you will have your own **portfolio**, that you can use later on to showcase your work, ideas and projects. 
@@ -14,12 +14,12 @@ A portfolio is a collection of materials that show cases your skills, qualificat
 
 
 ## Instructions:
-> Before we start, decide on a online web builder tool of your choosing, and create an account there!
+> Before we start, decide on a online web builder tool of your choosing, and create an account there! (Recommended: <a href="wix.com" target="_blank">Wix.com</a>)
 
 1. Change the title to `"Your name's" Portfolio`
 1. Create a section to write your skills, challenges and highlights:
 	- Write your all of the skills you have and the skills you have learned at MEET so far!
-	- Write the challenges you have faced during your MEET experience, and how you got through them.
+	- Write the worth-mentioning challenges you have faced during your MEET experience, and how you overcame them.
 	- Write the highlights of your journey in CS.
 1. Create a section for your projects:
 	- Add your MEET projects here! We did the OOP project, CYOA Front-end project, and the group Front-end project.
