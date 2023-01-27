@@ -14,7 +14,7 @@ A portfolio is a collection of materials that show cases your skills, qualificat
 
 
 ## Instructions:
-> Before we start, decide on a online web builder tool of your choosing, and create an account there! (Recommended: <a href="wix.com" target="_blank">Wix.com</a>)
+> Before we start, decide on a online web builder tool of your choosing, and create an account there! (Recommended: <a href="https://wix.com" target="_blank">Wix.com</a>)
 
 1. Change the title to `"Your name's" Portfolio`
 1. Create a section to write your skills, challenges and highlights:
