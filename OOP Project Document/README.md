@@ -1,6 +1,6 @@
 # Backend Individual Project - Object Oriented Programming 
 
-> DEADLINE: 17th November, To be presented at the Physical Event - Submission on Repl.it
+> DEADLINE: 9th November, To be presented at the Physical Event - Submission on Repl.it
 
 ## SWBATs - Students will be able to
 - Create a backend program that is based on any social media website. (For example: Facebook, Instagram, Tiktok, etc.)
@@ -30,6 +30,7 @@ Your objective is to create a **backend** program that is based on any social me
 
  
 ### Extra points for:
+- Use of AI Chatbot! (Thankfully, you created this already in your python reviews lab)
 - **Creative design!** You're creating an application in the terminal, which might make it not so fun to see/use... add your own design whether it is using [Turtle Library](https://docs.python.org/3/library/turtle.html), [Colorama](https://pypi.org/project/colorama/) or any other visual python libraries.
 - A super clear **user experience!** The **Backend program** should be easy to use and navigate, and very clear to the user.
 - Have at least **1 feature** that makes your project unique!
@@ -66,8 +67,9 @@ Your objective is to create a **backend** program that is based on any social me
     - The instructions are part of the UX, they should be very clear to the user how the application can be used.
     
 
-> DEADLINE: 17th November, To be presented at the Physical Event - Submission on Repl.it  
+> DEADLINE: 9th November, To be presented at the Physical Event - Submission on Repl.it  
 
 ## Hints and Hurdles
 - Navigate to your groups' "Teams" tab on Repl.it, you should find an OOP Repl ready for you to code in!
+- When creating your two classes, think futher than just `users` class; remember that `posts`, `comments` can also be classes.   
 - If you get stuck on coming up with potential classes, let us know and we'll help in the brainstorm!
