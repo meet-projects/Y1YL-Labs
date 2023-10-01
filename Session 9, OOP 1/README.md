@@ -1,4 +1,4 @@
-# Y1 Yearlong 2020/21 - Session 9, OOP 1 Lab
+# Y1 Yearlong 2023/24 - OOP Lab
 
 
 ## Objective: 
@@ -7,7 +7,7 @@ During this lab, you will familiarize yourself with the **Object Oriented Progra
 
 
 
-<img src="https://www.roberthalf.com/sites/default/files/2018-03/Object%20oriented%20programming.jpg" width="400">
+<img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="400">
 
 
 
