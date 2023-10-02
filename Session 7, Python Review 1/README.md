@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="300px">
 
 **Minimum Requirements:**
-- Use of dictionaries for mapping user input to responses.
+- Use of dictionaries which will tell the bot what to respond to the user input.
 - Use a loop to keep the chatbot running until the user decides to exit.
 - Handle cases where the user enters unrecognized input.
 
