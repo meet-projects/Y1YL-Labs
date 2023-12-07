@@ -1,4 +1,4 @@
-# Javascript II - Project Worktime!
+# Javascript II - Lab #2 (DOM)
 
 - Using the new knowledge you have just learned about **Javascript** and the **DOM**, you will have to think about a main **Input/Output feature** in your website.
 * Below you can find a DOM lab, in case you feel like you need to practice it.
