@@ -1,6 +1,6 @@
 # Group Projects - Front End (HTML, JS, CSS)
 
-> DEADLINE: TO BE SUBMITTED BY 26/01/2023 - On Repl.it
+> DEADLINE: TO BE SUBMITTED BY 14/01/2023 - On Repl.it
 
 ## SWBATs - Students will be able to
 - Understand the brainstorming and design process and decide on an idea for any future project.
@@ -30,9 +30,7 @@ Create a *dynamic* web application that provides a solution to a problem that ex
  
 ### Extra points for:
 - Use of Bootstrap
-- Use of Three.js
-- Storyboard
-- Wireframe
+- Wireframe and/or planning documents
 
 
 ## Workflow:
