@@ -22,14 +22,12 @@ Create a *dynamic* web application that provides a solution to a problem that ex
 4. The World
 
 **Minimum Requirements:**
-- At least 1 Main Input/Output functionality.
-- HTML
-- CSS
-- Javascript
+- HTML (At least 2 pages)
+- Use of Bootstrap Templates
+- Javascript: At least 1 Main Input/Output functionality.
   
  
 ### Extra points for:
-- Use of Bootstrap
 - Wireframe and/or planning documents
 
 
