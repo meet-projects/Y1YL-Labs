@@ -25,7 +25,7 @@
 
 2. **Writing the Main Chat Loop**
    - Use a `while` loop to keep the chatbot running until the user decides to exit.
-     - If the user enters "exit," the program should stop.
+     - If the user enters "exit" the program should stop.
    - The chatbot looks up the user's input in the `responses` dictionary and provides a response if it finds a match.
      - Hint: use `input()` function to recieve user input.
      - Convert the user's input to lowercase to make responses case-insensitive.
