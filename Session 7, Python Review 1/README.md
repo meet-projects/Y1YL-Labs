@@ -38,7 +38,6 @@
 
 **Good luck with your chatbot programming! Feel free to seek help from online resources or refer to external tools, but be prepared to explain your code line by line.**
 
-*Note: This lab focuses on the fundamentals of building a chatbot in Python without the use of external libraries.*
 
 
 
