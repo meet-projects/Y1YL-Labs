@@ -29,15 +29,15 @@
    - The chatbot looks up the user's input in the `responses` dictionary and provides a response if it finds a match.
      - Hint: use `input()` function to recieve user input.
      - Convert the user's input to lowercase to make responses case-insensitive.
-     - 
-******Submit your work before adding any external libraries******
 
-3. **Choose your own Library**
+3. ***Submit your work before adding any external libraries***
+
+4. **Choose your own Library**
    - We talked about Libraries in the summer(Examples for libraries:Turtle,Random)
    - This is your chance to get creative, choose at least one library from this document(https://docs.google.com/document/d/1fzhI12m9k3GM7Ouq23P5Tb_vQCR2a1wq19tKfOe9dqo/edit?tab=t.0#heading=h.stt3o5wpb2vc) and incorporate it in your code!
    - (you can research and choose other libraries but get it approved by your instructors first!) 
 
-4. **Extending the Chatbot (Optional / Bonus)**
+5. **Extending the Chatbot (Optional / Bonus)**
    - Add more responses to improve the chatbot's conversational abilities.
    - Consider adding conversation history.
    - If the chatbot does not know how to handle an input, it should ask the user for clarification or suggest adding a response.
