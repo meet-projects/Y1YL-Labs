@@ -22,6 +22,8 @@ You will need two HTML pages in this website, `index.html` & `about.html`.
 So let us create the **About page** and the **Index page**. 
 1. Click on **`Add file`** then name it `Index.html`, click on **`Add file`** again but this time name it `about.html`
 Then copy this code structure and past it into `index.html` and`about.html`:
+```html
+
 <!DOCTYPE html>
 <html>
 
