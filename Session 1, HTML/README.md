@@ -22,7 +22,7 @@ You will need two HTML pages in this website, `index.html` & `about.html`.
 So let us create the **About page** and the **Index page**. 
 1. Click on **`Add file`** then name it `Index.html`, click on **`Add file`** again but this time name it `about.html`
 Then copy this code structure and past it into `index.html` and`about.html`:
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -36,7 +36,7 @@ Then copy this code structure and past it into `index.html` and`about.html`:
 
 </body>
 
-</html>`
+</html>
 
 3. Create a simple **navigation tool** by using the **`<a>`** tag, this allows us to jump from the **Home page** to the **About page**. Now do the same thing to get from the **About page** to the **Home page**.  
   
