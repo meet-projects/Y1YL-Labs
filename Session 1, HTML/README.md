@@ -15,7 +15,7 @@ Like this useful website [`https://www.w3schools.com/`](https://www.w3schools.co
 [![](https://camo.githubusercontent.com/131c25bd172508d5f376dd7fe56283ae7fda2194/68747470733a2f2f63646e302e746e7763646e2e636f6d2f77702d636f6e74656e742f626c6f67732e6469722f312f66696c65732f323031372f30392f625563767252632d312d373936783339382e6a7067)]()
 
 
-> First things first, go to your `Sublime` in your computer and open it.
+> First things first, go to `Sublime` in your computer and open it.
 
 ## Instructions:
 You will need two HTML pages in this website, `index.html` & `about.html`.  
@@ -40,6 +40,7 @@ Then copy this code structure and past it into `index.html` and`about.html`:
 
 </html>
 ```
+2.add a title to each page descriping what it is.
 3. Create a simple **navigation tool** by using the **`<a>`** tag, this allows us to jump from the **Home page** to the **About page**. Now do the same thing to get from the **About page** to the **Home page**.  
   
 4. Use the `<h1>` tag to create a header to your pages.    
