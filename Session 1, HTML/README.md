@@ -40,7 +40,7 @@ Then copy this code structure and past it into `index.html` and`about.html`:
 
 </html>
 ```
-2.add a title to each page descriping what it is.
+2. add a title to each page descriping what it is.
 3. Create a simple **navigation tool** by using the **`<a>`** tag, this allows us to jump from the **Home page** to the **About page**. Now do the same thing to get from the **About page** to the **Home page**.  
   
 4. Use the `<h1>` tag to create a header to your pages.    
