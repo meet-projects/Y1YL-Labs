@@ -25,10 +25,12 @@ Create a *dynamic* web application that provides a solution to a problem that ex
 - HTML (At least 2 pages)
 - Use of Bootstrap Templates
 - Javascript: At least 1 Main Input/Output functionality.
+- Wireframe and/or planning documents
   
  
 ### Extra points for:
-- Wireframe and/or planning documents
+- Three.js
+- Bootstrap
 
 
 ## Workflow:
