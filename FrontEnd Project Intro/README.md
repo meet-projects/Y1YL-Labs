@@ -1,6 +1,6 @@
 # Group Projects - Front End (HTML, JS, CSS)
 
-> DEADLINE: TO BE SUBMITTED BY 14/01/2023 - On Repl.it
+> DEADLINE: TO BE SUBMITTED BY 27/01/2025 - Via the form in the master sheet
 
 ## SWBATs - Students will be able to
 - Understand the brainstorming and design process and decide on an idea for any future project.
