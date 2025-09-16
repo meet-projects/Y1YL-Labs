@@ -11,8 +11,10 @@
 - Handle cases where the user enters unrecognized input.
 
 **Instructions:**
+# Session 1
 
 1. **Understanding the Basics // Predefined Responses**
+   - A dictionary will act as our "database" meaning we will store and retrive information/data from it, we will start with it being static and as we progress we will make it more and more dynamic.
    - Basic AI chatbots work as a dictionary, where you build a dictionary of user input as keys and map them to AI responses as values. It may look something like this:
      ```python
      responses = {
@@ -22,21 +24,33 @@
          # Add more responses here
      }
      ```
+     
   - let's make the chatbot dynamic!
     - take the user's name and age(don't lose them we will use them later!)
+    - Calculate and show the user what's their age in months, weeks, days, minutes or seconds.(feel free to do all of them!)
     - make the chatbot dynamic: whenever you run your code and have to enter a question, it should show the user's name, when you run your code it should look something like this:
         ```terminal
            Sam:hello
            ChatBot:Hello! How can I assist you?
-     ```
+         ```
   -  Test you code out, does each key co-respond to it's value
+  -  *note: this is just one way to make the chatbot dynamic, think of other ways, other information that you can take from the user and use.
+  -  Add more responses to your dictionary to cover more questions.
+
+**Bonus:**
+- Use AI to generate 3 fun greetings and select one randomly (Uses list + random())
+
+  
+# Session 2
+
 
 2. **Writing the Main Chat Loop**
    - Use a `while` loop to keep the chatbot running until the user decides to exit.
      - If the user enters "exit" the program should stop.
+     - Include more than one "phrase" to exit the program; "bye","exit","stop"...
    - The chatbot looks up the user's input in the `responses` dictionary and provides a response if it finds a match.
      - Hint: use `input()` function to recieve user input.
-     - Convert the user's input to lowercase to make responses case-insensitive.
+     - Make responses case-insensitive, meaning that the program considers "HELLO" and "hello" and "HellO" as the same input.
 
 3. ***Submit your work before adding any external libraries***
 
