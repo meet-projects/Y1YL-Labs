@@ -16,14 +16,14 @@
 1. **Understanding the Basics // Predefined Responses**
    - A dictionary will act as our "database" meaning we will store and retrive information/data from it, we will start with it being static and as we progress we will make it more and more dynamic.
    - Basic AI chatbots work as a dictionary, where you build a dictionary of user input as keys and map them to AI responses as values. It may look something like this:
-     ```python
+     ``python
      responses = {
          "hello": "Hello! How can I assist you?",
          "how are you": "I'm just a computer program, but I'm here to help!",
          "goodbye": "Goodbye! Have a great day!",
          # Add more responses here
      }
-     ```
+     ``
      
   2. let's make the chatbot dynamic!
     - take the user's name and age(don't lose them we will use them later!)
