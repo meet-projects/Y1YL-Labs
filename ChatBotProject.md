@@ -25,7 +25,7 @@
      }
      ```
      
-  - let's make the chatbot dynamic!
+  2. let's make the chatbot dynamic!
     - take the user's name and age(don't lose them we will use them later!)
     - Calculate and show the user what's their age in months, weeks, days, minutes or seconds.(feel free to do all of them!)
     - make the chatbot dynamic: whenever you run your code and have to enter a question, it should show the user's name, when you run your code it should look something like this:
@@ -44,22 +44,37 @@
 # Session 2
 
 
-2. **Writing the Main Chat Loop**
+1. **Writing the Main Chat Loop**
    - Use a `while` loop to keep the chatbot running until the user decides to exit.
      - If the user enters "exit" the program should stop.
      - Include more than one "phrase" to exit the program; "bye","exit","stop"...
    - The chatbot looks up the user's input in the `responses` dictionary and provides a response if it finds a match.
      - Hint: use `input()` function to recieve user input.
      - Make responses case-insensitive, meaning that the program considers "HELLO" and "hello" and "HellO" as the same input.
+     - Add menu of options (e.g., "Ask me a question", "Tell me a joke", etc.) to make your chatbot more user friendly.
+   
 
-3. ***Submit your work before adding any external libraries***
+2. **Bonus**
+   - Add key recognition - Hint: look up `in`, `.lower()`.
 
-4. **Choose your own Library**
+
+# Session 3
+
+1. Expand the chatbot to:
+    - Respond to yes/no questions (e.g., “Are you hungry?”)
+    - Handle edge cases with try/except
+    - Give different responses based on user input
+2. **Bonus**
+   - Add "personality" to your chatbot.
+  
+
+# After you're done with everything from the previous sessions you can move on to this sesction:    
+1. **Choose your own Library**
    - We talked about Libraries in the summer(Examples for libraries:Turtle,Random)
    - This is your chance to get creative, choose at least one library from this document(https://docs.google.com/document/d/1fzhI12m9k3GM7Ouq23P5Tb_vQCR2a1wq19tKfOe9dqo/edit?tab=t.0#heading=h.stt3o5wpb2vc) and incorporate it in your code!
    - (you can research and choose other libraries but get it approved by your instructors first!) 
 
-5. **Extending the Chatbot (Optional / Bonus)**
+2. **Extending the Chatbot (Optional / Bonus)**
    - Add more responses to improve the chatbot's conversational abilities.
    - Consider adding conversation history.
    - If the chatbot does not know how to handle an input, it should ask the user for clarification or suggest adding a response.
