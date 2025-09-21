@@ -2,6 +2,7 @@
 ## Building a Basic AI Chatbot in Python
 
 **Objective:** Your task is to program a simple AI chatbot in Python using fundamentals such as dictionaries, loops, and conditional statements and functions.
+*Important Note: this is a much simplier chatbot than the ones you might be using(Gemini,ChatGPT..), those chatbots do not operate on a dictionary and they use more advanced logic than the one we will rely on.
 
 <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="300px">
 
@@ -71,10 +72,10 @@
 # After you're done with everything from the previous sessions you can move on to this sesction:    
 1. **Choose your own Library**
    - We talked about Libraries in the summer(Examples for libraries:Turtle,Random)
-   - This is your chance to get creative, choose at least one library from this document(https://docs.google.com/document/d/1fzhI12m9k3GM7Ouq23P5Tb_vQCR2a1wq19tKfOe9dqo/edit?tab=t.0#heading=h.stt3o5wpb2vc) and incorporate it in your code!
-   - (you can research and choose other libraries but get it approved by your instructors first!) 
+   - This is your chance to get creative, choose at least one featurefrom the document below, and research the most appropriate library to implement the feature (https://docs.google.com/document/d/1fzhI12m9k3GM7Ouq23P5Tb_vQCR2a1wq19tKfOe9dqo/edit?tab=t.0#heading=h.stt3o5wpb2vc) and incorporate it in your code!
+   - (you can research and choose other features but get it approved by your instructors first!) 
 
-2. **Extending the Chatbot (Optional / Bonus)**
+2. **Extending the Chatbot (Bonus)**
    - Add more responses to improve the chatbot's conversational abilities.
    - Consider adding conversation history.
    - If the chatbot does not know how to handle an input, it should ask the user for clarification or suggest adding a response.
