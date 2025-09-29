@@ -50,7 +50,7 @@
      - If the user enters "exit" the program should stop.
      - Include more than one "phrase" to exit the program; "bye","exit","stop"...
    - The chatbot looks up the user's input in the `responses` dictionary and provides a response if it finds a match.
-     - Hint: use `input()` function to recieve user input.
+     - Hint: use `input()` function to receive user input.
      - Make responses case-insensitive, meaning that the program considers "HELLO" and "hello" and "HellO" as the same input.
      - Add menu of options (e.g., "Ask me a question", "Tell me a joke", etc.) to make your chatbot more user friendly.
    
