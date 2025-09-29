@@ -1,8 +1,8 @@
-# Y1 Yearlong 2025/26 - Indivdual Project
+# Y1 Yearlong 2025/26 - individual Project
 ## Building a Basic AI Chatbot in Python
 
 **Objective:** Your task is to program a simple AI chatbot in Python using fundamentals such as dictionaries, loops, and conditional statements and functions.
-*Important Note: this is a much simplier chatbot than the ones you might be using(Gemini,ChatGPT..), those chatbots do not operate on a dictionary and they use more advanced logic than the one we will rely on.
+*Important Note: this is a much simpler chatbot than the ones you might be using(Gemini,ChatGPT..), those chatbots do not operate on a dictionary and they use more advanced logic than the one we will rely on.
 
 <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="300px">
 
