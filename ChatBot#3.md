@@ -1,0 +1,40 @@
+# Y1 Yearlong 2025/26 - individual Project
+## Building a Basic AI Chatbot in Python
+
+**Objective:** Your task is to program a simple AI chatbot in Python using fundamentals such as dictionaries, loops, and conditional statements and functions.
+*Important Note: this is a much simpler chatbot than the ones you might be using(Gemini,ChatGPT..), those chatbots do not operate on a dictionary and they use more advanced logic than the one we will rely on.
+
+
+# Session 3
+
+<img src="https://github.com/user-attachments/assets/1003b09f-3a51-4bfb-b89e-6cdaeb0a65dd" width="500px">
+
+**Instructions:**
+1. Expand the chatbot to:
+    - Respond to yes/no questions (e.g., “Are you hungry?”)
+    - Handle edge cases with try/except
+    - Give different responses based on user input
+    - make sure your menu is updated with all the actions that the chatbot can do.
+      
+2. **Bonus**
+   - Spell out accepted variants: yes → {“y”,“yes”,“yeah”,“sure”}, no → {“n”,“no”,“nope”}. 
+
+  **Minimum Requirements - make sure you have them all before moving on**
+- Use of dictionaries which will tell the bot what to respond to the user input.
+- Use a loop to keep the chatbot running until the user decides to exit.
+- Handle cases where the user enters unrecognized input.
+
+# After you're done with everything from the previous sessions you can move on to this sesction:    
+1. **Choose your own Library**
+   - We talked about Libraries in the summer(Examples for libraries:Turtle,Random)
+   - This is your chance to get creative, choose at least one feature from the document below, and research the most appropriate library to implement the feature
+     (https://docs.google.com/document/d/1UcPuJOgiokcIU_ED68-UK9Qwu7wZdXfEe14PPovoev4/edit?usp=sharing) and incorporate it in your code!
+   - (you can research and choose other features but get it approved by your instructors first!) 
+
+2. **Extending the Chatbot (Bonus)**
+   - Add more responses to improve the chatbot's conversational abilities.
+   - Consider adding conversation history.
+   - If the chatbot does not know how to handle an input, it should ask the user for clarification or suggest adding a response.
+   - Ensure that the chatbot understands user input even if it is not written exactly as in the `responses` dictionary.
+
+**Good luck with your chatbot programming! Feel free to seek help from online resources or refer to external tools, but be prepared to explain your code line by line.**
