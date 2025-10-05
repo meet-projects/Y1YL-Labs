@@ -29,6 +29,7 @@
    - We talked about Libraries in the summer(Examples for libraries:Turtle,Random)
    - This is your chance to get creative, choose at least one feature from the document below, and research the most appropriate library to implement the feature
      (https://docs.google.com/document/d/1UcPuJOgiokcIU_ED68-UK9Qwu7wZdXfEe14PPovoev4/edit?usp=sharing) and incorporate it in your code!
+   - check out this document if you need extra help with using the libraries(https://docs.google.com/document/d/1fzhI12m9k3GM7Ouq23P5Tb_vQCR2a1wq19tKfOe9dqo/edit?tab=t.0#heading=h.stt3o5wpb2vc)
    - (you can research and choose other features but get it approved by your instructors first!) 
 
 2. **Extending the Chatbot (Bonus)**
