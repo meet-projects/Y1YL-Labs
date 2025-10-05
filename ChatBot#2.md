@@ -22,3 +22,5 @@
 
 2. **Bonus**
    - Add key recognition - Hint: look up `in`, `.lower()`.
+     
+**Good luck with your chatbot programming! Feel free to seek help from online resources or refer to external tools, but be prepared to explain your code line by line.**
