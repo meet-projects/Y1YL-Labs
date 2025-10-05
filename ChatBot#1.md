@@ -7,9 +7,9 @@
 
 <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="300px">
 
-**Instructions:**
 # Session 1
 
+**Instructions:**
 1. **Understanding the Basics // Predefined Responses**
    - A dictionary will act as our "database" meaning we will store and retrive information/data from it, we will start with it being static and as we progress we will make it more and more dynamic.
    - Basic AI chatbots work as a dictionary, where you build a dictionary of user input as keys and map them to AI responses as values. It may look something like this:
