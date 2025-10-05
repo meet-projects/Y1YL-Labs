@@ -33,13 +33,14 @@
         ```terminal
            Sam:hello
            ChatBot:Hello! How can I assist you?
-         ```
+         
   -  Test you code out, does each key co-respond to it's value
   -  *note: this is just one way to make the chatbot dynamic, think of other ways, other information that you can take from the user and use.
   -  Add more responses to your dictionary to cover more questions.
 
 **Bonus:**
 - Use AI to generate 3 fun greetings and select one randomly (Uses list + random())
+
 
   
 # Session 2
@@ -65,8 +66,11 @@
     - Respond to yes/no questions (e.g., “Are you hungry?”)
     - Handle edge cases with try/except
     - Give different responses based on user input
+    - make sure your menu is updated with all the actions that the chatbot can do.
+      
 2. **Bonus**
-   - Add "personality" to your chatbot.
+   - Spell out accepted variants: yes → {“y”,“yes”,“yeah”,“sure”}, no → {“n”,“no”,“nope”}. 
+
   
 
 # After you're done with everything from the previous sessions you can move on to this sesction:    
