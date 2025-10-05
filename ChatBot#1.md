@@ -3,7 +3,9 @@
 
 **Objective:** Your task is to program a simple AI chatbot in Python using fundamentals such as dictionaries, loops, and conditional statements and functions.
 *Important Note: this is a much simpler chatbot than the ones you might be using(Gemini,ChatGPT..), those chatbots do not operate on a dictionary and they use more advanced logic than the one we will rely on.
-<img src="https://img.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195.jpg" width="300px">
+
+
+<img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="300px">
 
 **Minimum Requirements:**
 - Use of dictionaries which will tell the bot what to respond to the user input.
