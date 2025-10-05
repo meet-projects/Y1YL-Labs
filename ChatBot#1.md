@@ -36,3 +36,5 @@
 
 **Bonus:**
 - Use AI to generate 3 fun greetings and select one randomly (Uses list + random())
+
+**Good luck with your chatbot programming! Feel free to seek help from online resources or refer to external tools, but be prepared to explain your code line by line.**
