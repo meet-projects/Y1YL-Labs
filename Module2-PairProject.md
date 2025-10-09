@@ -16,8 +16,8 @@ This project builds directly on your chatbot experience — but this time, you�
 
 ###  Step 1: Design Your World  
 Before you start coding:  
-- Brainstorm your story idea (fantasy, sci-fi, mystery, etc.)  
-- Plan **4–5 locations** or “scenes” in a planning document.
+- Take 20 minutes to brainstorm your story idea (fantasy, sci-fi, mystery, etc.)  
+- Plan **4–5 locations** or “scenes” in a planning document(google doc, miro..).
 - Decide what information each location will include:
   - A short **description**  
   - **Options** for where the player can go next  
@@ -117,13 +117,15 @@ You should have a **playable prototype** — players can move, interact with sce
 
 ##  Sessions 3–4 
 
-Now it’s time to build, refine, and get creative!  
+Now it’s time to build, refine, and get creative!
+**make sure you include a menu of all the functionalities you have in your project for a better user excperince**
 
 ###  Minimum  Requirements 
 - A functional **game loop** with movement between scenes  
 - Use of **`.json`** file for your world data  
 - Use of **lists** for player inventory or tracking  
-- At least **two possible endings** based on player choices or items  
+- At least **two possible endings** based on player choices or items
+  
 
 ---
 
