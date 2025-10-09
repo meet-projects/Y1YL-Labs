@@ -1,7 +1,7 @@
-# 🧠 Pair Project 2025/26  
+#  Pair Project 2025/26  
 ## *World Builder: The Interactive Story Engine*  
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300px">
+<img src="https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif" width="300px">
 
 ### **Objective:**  
 In this project, you and your partner will design and code your own *interactive story engine* — a text-based world that reacts to the player’s choices.  
