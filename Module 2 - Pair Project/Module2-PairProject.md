@@ -17,12 +17,13 @@ This project builds directly on your chatbot experience — but this time, you�
 ###  Step 1: Design Your World  
 Before you start coding:  
 - Take 20 minutes to brainstorm your story idea (fantasy, sci-fi, mystery, etc.)  
-- Plan **4–5 locations** or “scenes” in a planning document(google doc, miro..).
+- Plan **4–5 locations** or “scenes”.
 - Decide what information each location will include:
   - A short **description**  
   - **Options** for where the player can go next  
   - **Items** the player can find
   - feel free to add more information!
+*Make sure you document everything in a **Planning Document**(google doc, miro, canva..)
 
 Example sketch:
 ```
