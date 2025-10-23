@@ -23,6 +23,7 @@ Before you start coding:
   - **Options** for where the player can go next  
   - **Items** the player can find
   - feel free to add more information!
+
 *Make sure you document everything in a **Planning Document**(google doc, miro, canva..)
 
 Example sketch:
