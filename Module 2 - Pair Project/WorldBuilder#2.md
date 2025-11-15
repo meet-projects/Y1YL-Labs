@@ -1,0 +1,60 @@
+#  Pair Project 2025/26  
+## *World Builder: The Interactive Story Engine*  
+
+<img src="https://i.pinimg.com/originals/f5/1b/32/f51b32d7580d266e620e3580c2b274d8.gif" width="300px">
+
+### **Objective:**  
+In this project, you and your partner will design and code your own *interactive story engine* — a text-based world that reacts to the player’s choices.  
+You’ll use **dictionaries**, **lists**, and **loops** to model a world, track a player’s state, and let users explore and make decisions that shape the outcome.  
+
+This project builds directly on your chatbot experience — but this time, you’re creating a *mini game engine* where **data and logic** work together.  
+
+---
+##  Session 2 
+
+
+###  Step 1: Create Your Player Dictionary  
+
+```python
+player = {
+    "location": "forest",
+    "inventory": [],
+    "name: : ""
+}
+```
+
+---
+
+###  Step 2: Add a Game Loop  
+
+- make sure you update the location of the player.
+- make sure you don't have an **infinte loop**.
+- handle wrong input/input thay doesn't exist.
+
+
+---
+
+### Step 3: Add Inventory Features  
+Let the player collect or drop items:
+
+```python
+command = input("What would you like to do? ").lower()
+
+if command == "take":
+    item = input("What do you want to take? ")
+    if item in world[loc]["items"]:
+        player["inventory"].append(item)
+        world[loc]["items"].remove(item)
+        print(f"{item} added to your inventory.")
+```
+
+Use loops to display the player’s inventory:
+```python
+for i, item in enumerate(player["inventory"], start=1):
+    print(f"{i}. {item}")
+```
+
+ **By the end of Session 2:**  
+You should have a **playable prototype** — players can move, interact with scenes, and pick up or drop items.
+
+---
