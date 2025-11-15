@@ -64,7 +64,7 @@ Print out all the locations and descriptions:
 
 
  **By the end of Session 1:**  
-You should have a **structured world** stored in a JSON file, and you can print scene info from it.
+You should have a **structured world** stored in a JSON file, and you can print scene info from it as well as a planning document to document your progress and division.
 
 ---
 
