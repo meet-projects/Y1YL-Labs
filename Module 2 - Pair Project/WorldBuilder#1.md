@@ -24,7 +24,7 @@ Before you start coding:
   - **Items** the player can find
   - feel free to add more information!
 
-*Make sure you document everything in a **Planning Document**(google doc, miro, canva..)
+*Make sure you document everything in the **Planning Document**(google doc, miro, canva..)
 
 Example sketch:
 ```
