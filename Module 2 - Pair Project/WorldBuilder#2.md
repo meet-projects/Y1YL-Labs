@@ -35,24 +35,9 @@ player = {
 ---
 
 ### Step 3: Add Inventory Features  
-Let the player collect or drop items:
+- Let the player collect or drop items, let the program rememmber those items.
+- Use loops to display the player’s inventory:
 
-```python
-command = input("What would you like to do? ").lower()
-
-if command == "take":
-    item = input("What do you want to take? ")
-    if item in world[loc]["items"]:
-        player["inventory"].append(item)
-        world[loc]["items"].remove(item)
-        print(f"{item} added to your inventory.")
-```
-
-Use loops to display the player’s inventory:
-```python
-for i, item in enumerate(player["inventory"], start=1):
-    print(f"{i}. {item}")
-```
 
  **By the end of Session 2:**  
 You should have a **playable prototype** — players can move, interact with scenes, and pick up or drop items.
