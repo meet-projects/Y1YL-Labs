@@ -60,7 +60,7 @@ with open("world.json", "r") as file:
 ---
 
 ###  Step 3: Test Your Data
-Print out all the locations and descriptions:
+Print out all the locations and descriptions.. this is to make sure you know how to access each part of your data.
 
 
  **By the end of Session 1:**  
