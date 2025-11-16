@@ -38,7 +38,7 @@ forest → cave → treasure room
 ###  Step 2: Build Your World 
 
 store your world in a **`world.json`** file:  
-*note: if you don't know what a **`.json`** file google it!
+*Note: if you don't know what a **`.json`** file is google it!
 ```json
 {
   "forest": {
@@ -49,7 +49,8 @@ store your world in a **`world.json`** file:
 }
 ```
 
-*note: make sure the **`world.json`** is in the same folder as your python file.
+**Note: make sure the **`world.json`** is in the same folder as your python file.**
+
 Then load it in Python:
 ```python
 import json
