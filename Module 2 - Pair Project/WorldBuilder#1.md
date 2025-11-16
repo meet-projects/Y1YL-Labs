@@ -36,9 +36,16 @@ forest → cave → treasure room
 ---
 
 ###  Step 2: Build Your World 
+**Before starting to code, get your idea approved by an instructor**
 
 store your world in a **`world.json`** file:  
 *Note: if you don't know what a **`.json`** file is google it!
+
+**Why are we using **`.json`** file instead of a dictionary?**
+- A **dictionary** only exists while your Python program is running, but a **JSON file** lets you **save that dictionary permanently** so you can load it again later.
+- JSON is a **universal format** that many programs and languages can read, so it’s useful for sharing or storing data outside your code.
+- To keep your data separate from the main code.
+
 ```json
 {
   "forest": {
