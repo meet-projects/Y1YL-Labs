@@ -14,6 +14,7 @@ This project builds directly on your chatbot experience â€” but this time, youâ€
 
 
 ###  Step 1: Create Your Player Dictionary  
+*note: this can also be stord in a json file like you did with the **`world.json`**
 
 ```python
 player = {
@@ -23,6 +24,7 @@ player = {
 }
 ```
 
+*you can add more pairs of key-value to this according to the world you're building and the information you want to store about the player.
 ---
 
 ###  Step 2: Add a Game Loop  
