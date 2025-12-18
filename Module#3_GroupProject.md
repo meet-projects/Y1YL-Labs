@@ -122,6 +122,7 @@ Your website:
 * Each page must use **your Python functions**
 * Matches the **wireframe**
 * Uses a **consistent design theme**
+* It's very important to also include in your prompt 
 
 ---
 
