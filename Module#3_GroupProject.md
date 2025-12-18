@@ -26,16 +26,16 @@ Your group will choose **one real problem** from one of these areas:
 
 ### Possible Problems You Can Choose From
 
-* Time Management and Procrastination: Difficulty managing time and staying focused when tasks feel demanding or easy to postpone.
-* Balancing Life Domains: Struggling to balance schoolwork, family responsibilities, hobbies, and rest.
-* Digital Distraction: Challenges staying focused due to frequent phone or online distractions.
-* College Preparation: Feeling uncertain about how to approach the college-prep process and its many steps.
-* Personal Wellbeing: Experiencing stress, low energy, or emotional overload during busy periods.
-* Physical Health: Difficulty maintaining healthy routines around sleep, movement, and nutrition.
-* Personal Values: Not being fully aware of one’s core values or how they influence daily choices.
-* Friendship Misunderstandings: Having trouble navigating misunderstandings or tension with friends.
-* Personal Finance: Feeling unsure about managing a small personal budget or financial decisions.
-* Speaking Up and Sharing Ideas: Feeling uncomfortable or hesitant when sharing ideas, speaking in groups, or presenting.
+* _Time Management and Procrastination_: Difficulty managing time and staying focused when tasks feel demanding or easy to postpone.
+* _Balancing Life Domains_: Struggling to balance schoolwork, family responsibilities, hobbies, and rest.
+* _Digital Distraction_: Challenges staying focused due to frequent phone or online distractions.
+* _College Preparation_: Feeling uncertain about how to approach the college-prep process and its many steps.
+* _Personal Wellbeing_: Experiencing stress, low energy, or emotional overload during busy periods.
+* _Physical Health_: Difficulty maintaining healthy routines around sleep, movement, and nutrition.
+* _Personal Values_: Not being fully aware of one’s core values or how they influence daily choices.
+* _Friendship Misunderstandings_: Having trouble navigating misunderstandings or tension with friends.
+* _Personal Finance_: Feeling unsure about managing a small personal budget or financial decisions.
+* _Speaking Up and Sharing Ideas_: Feeling uncomfortable or hesitant when sharing ideas, speaking in groups, or presenting.
 
 
  Your job is to:
@@ -53,11 +53,12 @@ A **wireframe** is a simple visual plan of your website.
 It must show:
 
 * All pages
-* Page layout
+* Page layout and how you'll connect the pages together
 * Buttons
 * Forms
 * Inputs and outputs
-* Where Python is used
+* Navigation bar
+* etc..
 
  Your design must be **consistent across all pages**.
 
@@ -72,12 +73,8 @@ It must include:
 * The problem and your solution
 * Role division (who does what)
 * The **main feature** of the website
-* What data is saved in **JSON**
+* What data is saved in **JSON** 
 
-### Data Flow (Very Important)
-
-You must explain this clearly:
-**User input → Python → JSON → Output**
 
 ---
 
@@ -96,7 +93,7 @@ It must be able to:
 
 ---
 
-### 🐍 Python Functions
+### Python Functions
 
 Your backend must include these functions:
 
@@ -107,12 +104,12 @@ Required:
 
 Main Feature Function:
 
-* One function that solves the problem
+* One function that solves the problem, it should include some kind of user input
   (for example: add a task, report a complaint, add an item, do a calculation)
 
 ---
 
-## 🌐 Step 5: Build the Website (Using AI)
+##  Step 5: Build the Website (Using AI)
 
 Your website:
 
@@ -124,7 +121,7 @@ Your website:
 
 ---
 
-## ⭐ Bonus (Optional)
+## ⭐ Bonus 
 
 * Use **API keys**
 
@@ -132,26 +129,26 @@ Your website:
 
 ## 🗓 Project Timeline
 
-### 📅 Week of December 21
+### Session 1
 
 * Brainstorm ideas
 * Get problem and solution approved
 
-### 📅 Week of December 28
+### Session 2
 
 * Focus on backend
 * Build Python logic
 
-### 📅 Week of January 4
+### Session 3
+
+* Worktime
+
+### Session 4
 
 * Generate UI with AI
 * Test using prompts
 
-### 📅 Week of January 11
-
-* Worktime
-
-### 📅 Week of January 21
+### Session 5
 
 * Final worktime
 * Practice presentations (dry-runs)
