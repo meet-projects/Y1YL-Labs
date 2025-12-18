@@ -1,6 +1,6 @@
 ##  Group Project 2025/26
 
-<img width="340" height="255" alt="image" src="https://github.com/user-attachments/assets/fe3ba69d-e51a-4e3e-bd77-8d092edb1554.gif" />
+<img width="340" height="255" alt="image" src="https://media.tenor.com/hRiPtsp-m0IAAAAM/the-simpsons-homer-simpson.gif" />
 
 
 
