@@ -26,16 +26,16 @@ Your group will choose **one real problem** from one of these areas:
 
 ### Possible Problems You Can Choose From
 
-*Time Management and Procrastination: Difficulty managing time and staying focused when tasks feel demanding or easy to postpone.
-*Balancing Life Domains: Struggling to balance schoolwork, family responsibilities, hobbies, and rest.
-*Digital Distraction: Challenges staying focused due to frequent phone or online distractions.
-*College Preparation: Feeling uncertain about how to approach the college-prep process and its many steps.
-*Personal Wellbeing: Experiencing stress, low energy, or emotional overload during busy periods.
-*Physical Health: Difficulty maintaining healthy routines around sleep, movement, and nutrition.
-*Personal Values: Not being fully aware of one’s core values or how they influence daily choices.
-*Friendship Misunderstandings: Having trouble navigating misunderstandings or tension with friends.
-*Personal Finance: Feeling unsure about managing a small personal budget or financial decisions.
-*Speaking Up and Sharing Ideas: Feeling uncomfortable or hesitant when sharing ideas, speaking in groups, or presenting.
+* Time Management and Procrastination: Difficulty managing time and staying focused when tasks feel demanding or easy to postpone.
+* Balancing Life Domains: Struggling to balance schoolwork, family responsibilities, hobbies, and rest.
+* Digital Distraction: Challenges staying focused due to frequent phone or online distractions.
+* College Preparation: Feeling uncertain about how to approach the college-prep process and its many steps.
+* Personal Wellbeing: Experiencing stress, low energy, or emotional overload during busy periods.
+* Physical Health: Difficulty maintaining healthy routines around sleep, movement, and nutrition.
+* Personal Values: Not being fully aware of one’s core values or how they influence daily choices.
+* Friendship Misunderstandings: Having trouble navigating misunderstandings or tension with friends.
+* Personal Finance: Feeling unsure about managing a small personal budget or financial decisions.
+* Speaking Up and Sharing Ideas: Feeling uncomfortable or hesitant when sharing ideas, speaking in groups, or presenting.
 
 
  Your job is to:
